@@ -1,0 +1,10 @@
+^D:\MP2-LAB3-POSTFIX\AKIMOV\CMAKEFILES\7D9D5842AE2C58C3C470DD60E734812F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/mp2-lab3-postfix/Akimov -BD:/mp2-lab3-postfix/Akimov --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/mp2-lab3-postfix/Akimov/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

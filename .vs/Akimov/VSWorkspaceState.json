@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "Akimov\\out\\build\\x64-Debug",
+      "Akimov\\out\\install\\x64-Debug"
+    ]
+  }
+}

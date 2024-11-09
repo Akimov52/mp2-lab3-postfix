@@ -1,0 +1,5 @@
+D:/mp2-lab3-postfix/Akimov/CMakeFiles/ALL_BUILD.dir
+D:/mp2-lab3-postfix/Akimov/CMakeFiles/ZERO_CHECK.dir
+D:/mp2-lab3-postfix/Akimov/base/CMakeFiles/postfix.dir
+D:/mp2-lab3-postfix/Akimov/base_test/CMakeFiles/postfix_test.dir
+D:/mp2-lab3-postfix/Akimov/gtest/CMakeFiles/gtest.dir

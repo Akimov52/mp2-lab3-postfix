@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/mp2-lab3-postfix/Akimov/base/CMakeLists.txt
+  postfix.cpp
+  sample_postfix.cpp
+  Создание кода...
+  postfix.vcxproj -> D:\mp2-lab3-postfix\Akimov\base\Debug\postfix.exe

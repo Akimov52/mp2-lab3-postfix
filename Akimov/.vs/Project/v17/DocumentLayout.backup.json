@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mp2-lab3-postfix\\Akimov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tpostfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|solutionrelative:base_test\\test_tpostfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tstack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|solutionrelative:base_test\\test_tstack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|solutionrelative:base_test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1599F9A-82A4-34E0-9317-9D0FD5BB03E8}|base_test\\postfix_test.vcxproj|solutionrelative:base\\postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base\\sample_postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|solutionrelative:base\\sample_postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE401FF-AAE5-36F4-9CEE-176831774409}|gtest\\gtest.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\gtest\\gtest-all.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BE401FF-AAE5-36F4-9CEE-176831774409}|gtest\\gtest.vcxproj|solutionrelative:gtest\\gtest-all.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|solutionrelative:base\\postfix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|D:\\mp2-lab3-postfix\\Akimov\\base\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4421D8F-D97D-3EC5-A102-A1DDB371E75F}|base\\postfix.vcxproj|solutionrelative:base\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gtest-all.cc",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\gtest\\gtest-all.cc",
+              "RelativeDocumentMoniker": "gtest\\gtest-all.cc",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\gtest\\gtest-all.cc",
+              "RelativeToolTip": "gtest\\gtest-all.cc",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAAAAcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T19:16:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_main.cpp",
+              "RelativeDocumentMoniker": "base_test\\test_main.cpp",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_main.cpp",
+              "RelativeToolTip": "base_test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T18:36:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_tpostfix.cpp",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tpostfix.cpp",
+              "RelativeDocumentMoniker": "base_test\\test_tpostfix.cpp",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tpostfix.cpp",
+              "RelativeToolTip": "base_test\\test_tpostfix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T22:14:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_tstack.cpp",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tstack.cpp",
+              "RelativeDocumentMoniker": "base_test\\test_tstack.cpp",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base_test\\test_tstack.cpp",
+              "RelativeToolTip": "base_test\\test_tstack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T21:59:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sample_postfix.cpp",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base\\sample_postfix.cpp",
+              "RelativeDocumentMoniker": "base\\sample_postfix.cpp",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base\\sample_postfix.cpp",
+              "RelativeToolTip": "base\\sample_postfix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T21:56:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "postfix.h",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.h",
+              "RelativeDocumentMoniker": "base\\postfix.h",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.h",
+              "RelativeToolTip": "base\\postfix.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T21:55:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stack.h",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base\\stack.h",
+              "RelativeDocumentMoniker": "base\\stack.h",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base\\stack.h",
+              "RelativeToolTip": "base\\stack.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T21:55:18.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "postfix.cpp",
+              "DocumentMoniker": "D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.cpp",
+              "RelativeDocumentMoniker": "base\\postfix.cpp",
+              "ToolTip": "D:\\mp2-lab3-postfix\\Akimov\\base\\postfix.cpp",
+              "RelativeToolTip": "base\\postfix.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T21:55:07.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
